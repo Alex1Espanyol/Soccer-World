@@ -1,0 +1,35 @@
+        .topnav a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 19px 26px;
+        text-decoration:inherit;
+        background-color: aqua;
+        font-family:fantasy
+        }
+        .topnav a.asd{
+            background-color: #135423;
+            color:wheat
+        }
+.topnav a:hover {
+    background-color: lightcoral;
+    color: black;
+}
+.topnav{
+    background-color:lightgoldenrodyellow;
+    overflow:hidden;
+}
+h1{
+    font-family: fantasy
+}
+h1:hover{
+    color:royalblue;
+    font-size: 60px;
+}
+h2:hover{
+    color: aquamarine
+}
+h2{
+    font-family: fantasy;
+    font-size: 20px
+}
